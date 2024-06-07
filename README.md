@@ -4,8 +4,6 @@
 This application allows users to purchase tickets for a movie and choose their seat.
 
 ## Screenshots
-
-### Homepage
 ![](assets/screenshot1.png)
 
 ## Links
